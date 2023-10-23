@@ -14,7 +14,7 @@ section{
   position: relative;
   height: 100vh;
   width: 100%;
-  background: url("/src/images/heaven-8173189_1920.jpg");
+  background: url("src/images/heaven-8173189_1920.jpg");
   background-size: cover;
   background-position: center center;
 }
